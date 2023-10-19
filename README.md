@@ -14,3 +14,4 @@
 
 ### Project Description
 ------------
+Detection of the emergence of armed conflicts through short-term land disputes.
