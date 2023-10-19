@@ -1,0 +1,237 @@
+,Keyword,Search Intent,Search Volume,Keyword Frequency
+"Shelling, conflict, 0.5, 0.5",Shelling,conflict,0.8,0.5
+"Ceasefire, interruption, 0.6, 0.2",Ceasefire,interruption,0.6,0.2
+"Military positions, attack, 0.4, 0.2",Military positions,attack,0.4,0.2
+"Clashes, violence, 0.4, 0.2",Clashes,violence,0.4,0.2
+"Civilian, casualties, 0.4, 0.2",Civilian,casualties,0.4,0.2
+"Rhetoric, threats, 0.3, 0.2",Rhetoric,threats,0.3,0.2
+"Nuclear power station, threat, 0.3, 0.1",Nuclear power station,threat,0.3,0.1
+"Tavush region, conflict area, 0.3, 0.2",Tavush region,conflict area,0.3,0.2
+"Shields, accusation, 0.3, 0.2",Shields,accusation,0.3,0.2
+"De-escalation, resolution, 0.5, 0.2",De-escalation,resolution,0.5,0.2
+"Stability, concern, 0.4, 0.2",Stability,concern,0.4,0.2
+"Fighting, Conflict, 0.8, 0.7",Fighting,Conflict,0.9,0.7
+"Armenia, Country, 0.6, 0.5",Armenia,Country,0.9,0.5
+"Azerbaijan, Country, 0.6, 0.4",Azerbaijan,Country,0.9,0.4
+"Clashes, Conflict, 0.5, 0.4",Clashes,Conflict,0.5,0.4
+"Soldiers, Military, 0.4, 0.4",Soldiers,Military,0.4,0.4
+"Civilians, People, 0.4, 0.3",Civilians,People,0.4,0.3
+"Artillery, Weapon, 0.3, 0.3",Artillery,Weapon,0.3,0.3
+"Drone, Weapon, 0.3, 0.2",Drone,Weapon,0.3,0.2
+"Border, Geography, 0.3, 0.3",Border,Geography,0.3,0.3
+"Ceasefire, Peace, 0.3, 0.3",Ceasefire,Peace,0.3,0.3
+"Russia, Country, 0.3, 0.3",Russia,Country,0.3,0.3
+"CSTO, Organization, 0.2, 0.4",CSTO,Organization,0.2,0.4
+"Armenia-Azerbaijan Conflict, Conflict, 0.2, 0.2",Armenia-Azerbaijan Conflict,Conflict,0.2,0.2
+"Nagorno-Karabakh, Territory, 0.2, 0.2",Nagorno-Karabakh,Territory,0.9,0.2
+"Geopolitics, Politics, 0.2, 0.2",Geopolitics,Politics,0.2,0.2
+"Nagorno-Karabakh, Conflict, 0.1, 0.4",Nagorno Karabakh,Conflict,0.9,0.4
+"Hostilities, Conflict, 0.3, 0.6",Hostilities,Conflict,0.8,0.6
+"Artillery, Weapon, 0.2, 0.3",Artillery,Weapon,0.2,0.3
+"Drones, Technology, 0.3, 0.3",Drones,Technology,0.3,0.3
+"Civilians, Victim, 0.1, 0.3",Civilians,Victim,0.1,0.3
+"Government websites, Cyberattack, 0.1, 0.2",Government websites,Cyberattack,0.1,0.2
+"Ceasefire, Resolution, 0.3, 0.4",Ceasefire,Resolution,0.3,0.4
+"Russia, Mediation, 0.4, 0.3",Russia,Mediation,0.4,0.3
+"United States, Mediation, 0.3, 0.2",United States,Mediation,0.3,0.2
+"Turkey, Support, 0.2, 0.2",Turkey,Support,0.2,0.2
+"United Nations, Mediation, 0.2, 0.2",United Nations,Mediation,0.2,0.2
+"Nagorno-Karabakh, Territorial dispute, 0.35, 0.43",Nagorno-Karabakh,Territorial dispute,0.35,0.43
+"Separatist region, Separatism, 0.15, 0.14",Separatist region,Separatism,0.15,0.14
+"Clashes, Violence, 0.3, 0.14",Clashes,Violence,0.3,0.14
+"Soldiers, Military, 0.25, 0.27",Soldiers,Military,0.25,0.27
+"Ethnic Armenian forces, Ethnicity, 0.1, 0.14",Ethnic Armenian forces,Ethnicity,0.1,0.14
+"Artillery, Weaponry, 0.15, 0.14",Artillery,Weaponry,0.15,0.14
+"Buffer zone, Geography, 0.05, 0.14",Buffer zone,Geography,0.05,0.14
+"Troika, Negotiation, 0.05, 0.14",Troika,Negotiation,0.05,0.14
+"Envoys, Diplomacy, 0.05, 0.14",Envoys,Diplomacy,0.05,0.14
+"OSCE, International organization, 0.05, 0.14",OSCE,International organization,0.05,0.14
+"Mortars, Weaponry, 0.05, 0.14",Mortars,Weaponry,0.05,0.14
+"Aircraft, Weaponry, 0.1, 0.14",Aircraft,Weaponry,0.1,0.14
+"Tanks, Weaponry, 0.1, 0.14",Tanks,Weaponry,0.1,0.14
+"Armenia and Azerbaijan, Countries, 0.2, 0.14",Armenia and Azerbaijan,Countries,0.85,0.14
+"Italy-Azerbaijan relations, Economic, 0.3, 0.2",Italy-Azerbaijan relations,Economic,0.3,0.2
+"Nagorno-Karabakh conflict, Political, 0.4, 0.3",Nagorno-Karabakh conflict,Political,0.88,0.3
+"Joint declaration, Political, 0.2, 0.2",Joint declaration,Political,0.2,0.2
+"Sovereignty, Political, 0.1, 0.1",Sovereignty,Political,0.1,0.1
+"Territorial integrity, Political, 0.1, 0.1",Territorial integrity,Political,0.8,0.1
+"National borders, Political, 0.1, 0.1",National borders,Political,0.1,0.1
+"Minsk Group, Mediation, 0.2, 0.1",Minsk Group,Mediation,0.2,0.1
+"EU-Azerbaijan partnership agreement, Negotiations, 0.1, 0.1",EU-Azerbaijan partnership agreement,Negotiations,0.1,0.1
+"Protracted conflicts, Political, 0.1, 0.1",Protracted conflicts,Political,0.1,0.1
+"Southern Caucasus, Geographical, 0.1, 0.1",Southern Caucasus,Geographical,0.1,0.1
+"Aliyev, Political, 0.1, 0.1",Aliyev,Political,0.1,0.1
+"Italian Foreign Ministry, Diplomacy, 0.1, 0.1",Italian Foreign Ministry,Diplomacy,0.1,0.1
+"Azerbaijan economy, Economic, 0.2, 0.2",Azerbaijan economy,Economic,0.2,0.2
+"Italian government, Diplomacy, 0.2, 0.2",Italian government,Diplomacy,0.2,0.2
+"Trans Adriatic Pipeline, Infrastructure, 0.2, 0.1",Trans Adriatic Pipeline,Infrastructure,0.2,0.1
+"Nagorno-Karabakh, Information, 0.6, 0.4",Nagorno-Karabakh,Information,0.6,0.4
+"Armenia, Information, 0.5, 0.2",Armenia,Information,0.5,0.2
+"Azerbaijan, Information, 0.4, 0.2",Azerbaijan,Information,0.4,0.2
+"Soviet Union, Historical Background, 0.3, 0.1",Soviet Union,Historical Background,0.3,0.1
+"Conflict, Information, 0.4, 0.3",Conflict,Information,0.4,0.3
+"Self-determination, Information, 0.3, 0.2",Self-determination,Information,0.3,0.2
+"Russian Empire, Historical Background, 0.2, 0.1",Russian Empire,Historical Background,0.2,0.1
+"Paris Peace Conference, Historical Event, 0.1, 0.05",Paris Peace Conference,Historical Event,0.1,0.05
+"Armenian Genocide, Historical Event, 0.2, 0.1",Armenian Genocide,Historical Event,0.8,0.1
+"Sumgait Massacre, Historical Event, 0.1, 0.05",Sumgait Massacre,Historical Event,0.1,0.05
+"War, Information, 0.5, 0.3",War,Information,0.8,0.3
+"Refugees, Information, 0.4, 0.2",Refugees,Information,0.4,0.2
+"Ceasefire, Information, 0.3, 0.3",Ceasefire,Information,0.3,0.3
+"Compromise, Information, 0.3, 0.2",Compromise,Information,0.3,0.2
+"Propaganda, Information, 0.2, 0.1",Propaganda,Information,0.88,0.1
+"Nagorno-Karabakh conflict, Information, 0.5, 0.3",Nagorno-Karabakh conflict,Information,0.5,0.3
+"Nagorno-Karabakh War, Information, 0.3, 0.2",Nagorno-Karabakh War,Information,0.3,0.2
+"Nagorno-Karabakh tensions, Information, 0.4, 0.2",Nagorno-Karabakh tensions,Information,0.4,0.2
+"Nagorno-Karabakh news, Information, 0.4, 0.1",Nagorno-Karabakh news,Information,0.4,0.1
+"Armenia Azerbaijan border dispute, Information, 0.3, 0.1",Armenia Azerbaijan border dispute,Information,0.3,0.1
+"Armenia Azerbaijan border tensions, Information, 0.3, 0.1",Armenia Azerbaijan border tensions,Information,0.3,0.1
+"Armenia Azerbaijan border clash, Information, 0.3, 0.1",Armenia Azerbaijan border clash,Information,0.3,0.1
+"Russia Caucasus geopolitics, Information, 0.3, 0.1",Russia Caucasus geopolitics,Information,0.3,0.1
+"South Caucasian Pipeline (SCP), Information, 0.2, 0.1",South Caucasian Pipeline (SCP),Information,0.2,0.1
+"Artsakh, Information, 0.1, 0.1",Artsakh,Information,0.1,0.1
+"Skirmishes, Information, 0.4, 0.2",Skirmishes,Information,0.4,0.2
+"Ceasefire, Information, 0.5, 0.3",Ceasefire,Information,0.5,0.3
+"Peace talks, Information, 0.4, 0.2",Peace talks,Information,0.4,0.2
+"Ethnic conflict, Information, 0.3, 0.2",Ethnic conflict,Information,0.3,0.2
+"Diplomatic solution, Information, 0.4, 0.2",Diplomatic solution,Information,0.4,0.2
+"Azerbaijan, Conflict, 0.8, 0.1",Azerbaijan,Conflict,0.8,0.1
+"Georgia, Allegations, 0.6, 0.3",Georgia,Allegations,0.6,0.3
+"Armenia, Shipment, 0.5, 0.2",Armenia,Shipment,0.5,0.2
+"Caucasus, Implications, 0.4, 0.1",Caucasus,Implications,0.4,0.1
+"Rocket launchers, Transit, 0.3, 0.1",Rocket launchers,Transit,0.3,0.1
+"Tovuz, Shelling, 0.2, 0.1",Tovuz,Shelling,0.2,0.1
+"Serbia, Supplier, 0.2, 0.1",Serbia,Supplier,0.2,0.1
+"Russia, Trucks, 0.4, 0.2",Russia,Trucks,0.4,0.2
+"Diplomatic steps, Explanation, 0.1, 0.1",Diplomatic steps,Explanation,0.1,0.1
+"Energy suppliers, Investment, 0.3, 0.1",Energy suppliers,Investment,0.3,0.1
+"Domestic political exchange, Explanation, 0.1, 0.1",Domestic political exchange,Explanation,0.1,0.1
+"Opposition parties, Demand, 0.2, 0.1",Opposition parties,Demand,0.2,0.1
+"United National Movement, Policy, 0.1, 0.1",United National Movement,Policy,0.1,0.1
+"Gossip, Dismiss, 0.1, 0.1",Gossip,Dismiss,0.1,0.1
+"Conflict, Fighting, 0.7, 0.2",Conflict,Fighting,0.8,0.2
+"Armenia, Information, 0.5, 1.0",Armenia,Information,0.5,1
+"Azerbaijan, Information, 0.5, 1.0",Azerbaijan,Information,0.5,1
+"Fighting, Information, 0.5, 0.7",Fighting,Information,0.5,0.7
+"Media, Information, 0.3, 1.0",Media,Information,0.3,1
+"Military, Information, 0.3, 0.7",Military,Information,0.3,0.7
+"Civilians, Information, 0.3, 0.5",Civilians,Information,0.8,0.5
+"Deaths, Information, 0.3, 0.5",Deaths,Information,0.8,0.5
+"Drone, Information, 0.3, 0.3",Drone,Information,0.3,0.3
+"Valorizing, Opinion, 0.1, 0.3",Valorizing,Opinion,0.1,0.3
+"Resilience, Opinion, 0.1, 0.3",Resilience,Opinion,0.1,0.3
+"Underdog, Opinion, 0.1, 0.3",Underdog,Opinion,0.1,0.3
+"Polarized, Opinion, 0.1, 0.3",Polarized,Opinion,0.1,0.3
+"Disinformation, Information, 0.2, 0.5",Disinformation,Information,0.2,0.5
+"Frontline, Information, 0.2, 0.5",Frontline,Information,0.2,0.5
+"Authorities, Information, 0.2, 0.5",Authorities,Information,0.2,0.5
+"Armenia-Azerbaijan, Comparison, 0.5, 1.0",Armenia-Azerbaijan,Comparison,0.9,1
+"Defense, Informational, 0.4, 0.8",Defense,Informational,0.4,0.8
+"Azerbaijan military, Informational, 0.3, 0.6",Azerbaijan military,Informational,0.88,0.6
+"Armenia military, Informational, 0.2, 0.4",Armenia military,Informational,0.88,0.4
+"Nagorno-Karabakh, Informational, 0.1, 0.4",Nagorno-Karabakh,Informational,0.1,0.4
+"Oil reserves, Informational, 0.2, 0.2",Oil reserves,Informational,0.2,0.2
+"Military budget, Informational, 0.2, 0.6",Military budget,Informational,0.2,0.6
+"Government spending, Informational, 0.2, 0.6",Government spending,Informational,0.2,0.6
+"Poverty rate, Informational, 0.2, 0.2",Poverty rate,Informational,0.2,0.2
+"Arms exports, Informational, 0.3, 0.6",Arms exports,Informational,0.3,0.6
+"Collective Security Treaty Organization, Informational, 0.1, 0.2",Collective Security Treaty Organization,Informational,0.1,0.2
+"Economic ties, Informational, 0.2, 0.2",Economic ties,Informational,0.2,0.2
+"South Caucasus, Informational, 0.1, 0.2",South Caucasus,Informational,0.1,0.2
+"Armenia, Historical, 0.8, 0.2",Armenia,Historical,0.8,0.2
+"Azerbaijan, Historical, 0.8, 0.2",Azerbaijan,Historical,0.8,0.2
+"Nazi collaboration, Accusations, 0.6, 0.3",Nazi collaboration,Accusations,0.6,0.3
+"Caucasus, Struggle, 0.7, 0.1",Caucasus,Struggle,0.7,0.1
+"Nikol Pashinyan, Prime Minister, 0.6, 0.4",Nikol Pashinyan,Prime Minister,0.6,0.4
+"Garegin Nzhdeh, Collaboration, 0.4, 0.1",Garegin Nzhdeh,Collaboration,0.4,0.1
+"Ilham Aliyev, President, 0.6, 0.3",Ilham Aliyev,President,0.6,0.3
+"Mammad Amin Rasulzade, Legacy, 0.4, 0.2",Mammad Amin Rasulzade,Legacy,0.4,0.2
+"Armenian Revolutionary Federation – Dashnaktsutyun, Sympathizers, 0.3, 0.2",Armenian Revolutionary Federation – Dashnaktsutyun,Sympathizers,0.3,0.2
+"Nazi sympathizers, Accusations, 0.5, 0.3",Nazi sympathizers,Accusations,0.5,0.3
+"Azerbaijan Democratic Republic, Founding father, 0.4, 0.2",Azerbaijan Democratic Republic,Founding father,0.4,0.2
+"Armenia-Azerbaijan clashes, Conflict, 0.5, 0.03",Armenia-Azerbaijan clashes,Conflict,0.5,0.03
+"Ganja Gap, Geopolitical interests, 0.1, 0.02",Ganja Gap,Geopolitical interests,0.1,0.02
+"Azerbaijani village, Conflict, 0.05, 0.01",Azerbaijani village,Conflict,0.05,0.01
+"Armenian forces, Conflict, 0.1, 0.06",Armenian forces,Conflict,0.1,0.06
+"Nagorno-Karabakh Autonomous Oblast, Territorial dispute, 0.05, 0.01",Nagorno-Karabakh Autonomous Oblast,Territorial dispute,0.05,0.01
+"Skirmishes, Conflict, 0.1, 0.02",Skirmishes,Conflict,0.1,0.02
+"Cease-fire, Conflict resolution, 0.05, 0.01",Cease-fire,Conflict resolution,0.05,0.01
+"Atrocities, Conflict, 0.05, 0.01",Atrocities,Conflict,0.05,0.01
+"Geopolitical interests, Geopolitics, 0.1, 0.04",Geopolitical interests,Geopolitics,0.1,0.04
+"Oil and gas pipelines, Energy trade, 0.3, 0.06",Oil and gas pipelines,Energy trade,0.3,0.06
+"Baku-Tbilisi-Ceyhan pipeline, Energy trade, 0.2, 0.03",Baku-Tbilisi-Ceyhan pipeline,Energy trade,0.2,0.03
+"Baku-Supsa pipeline, Energy trade, 0.1, 0.02",Baku-Supsa pipeline,Energy trade,0.1,0.02
+"Southern Gas Corridor, Energy trade, 0.15, 0.02",Southern Gas Corridor,Energy trade,0.15,0.02
+"Fiber optic cables, Infrastructure, 0.2, 0.03",Fiber optic cables,Infrastructure,0.2,0.03
+"Sovereignty, Territorial dispute, 0.1, 0.03",Sovereignty,Territorial dispute,0.1,0.03
+"Nagorno-Karabakh Conflict, Informational, 0.1, 1.0",Nagorno-Karabakh Conflict,Informational,0.1,1
+"Azerbaijan, Informational, 0.2, 0.3",Azerbaijan,Informational,0.2,0.3
+"Armenia, Informational, 0.2, 0.3",Armenia,Informational,0.2,0.3
+"Ceasefire, Informational, 0.1, 0.3",Ceasefire,Informational,0.1,0.3
+"Mediation, Informational, 0.1, 0.2",Mediation,Informational,0.1,0.2
+"War, Informational, 0.2, 0.3",War,Informational,0.2,0.3
+"Russia, Informational, 0.2, 0.4",Russia,Informational,0.2,0.4
+"United States, Informational, 0.1, 0.3",United States,Informational,0.1,0.3
+"European Union, Informational, 0.1, 0.2",European Union,Informational,0.1,0.2
+"Ethnic Armenians, Informational, 0.1, 0.2",Ethnic Armenians,Informational,0.1,0.2
+"Military, Informational, 0.2, 0.3",Military,Informational,0.2,0.3
+"Diplomacy, Informational, 0.1, 0.2",Diplomacy,Informational,0.1,0.2
+"Lachin Corridor, Informational, 0.1, 0.3",Lachin Corridor,Informational,0.1,0.3
+"Separatists, Informational, 0.1, 0.2",Separatists,Informational,0.1,0.2
+"Disarmament, Informational, 0.1, 0.2",Disarmament,Informational,0.1,0.2
+"Geopolitica, Information processing, 0.3, 1.0",Geopolitica,Information processing,0.3,1
+"Attribution of blame, Conflict resolution, 0.4, 0.8",Attribution of blame,Conflict resolution,0.4,0.8
+"Nagorno-Karabakh conflict, Conflict analysis, 0.4, 0.8",Nagorno-Karabakh conflict,Conflict analysis,0.99,0.8
+"Russia, Foreign policy, 0.5, 0.7",Russia,Foreign policy,0.5,0.7
+"Azerbaijan, National identity, 0.4, 0.6",Azerbaijan,National identity,0.4,0.6
+"Soviet Union, Legacy, 0.3, 0.5",Soviet Union,Legacy,0.3,0.5
+"Great power politics, International relations, 0.3, 0.5",Great power politics,International relations,0.3,0.5
+"Nationalism, Political psychology, 0.4, 0.6",Nationalism,Political psychology,0.4,0.6
+"Conspiracy theories, Post-Soviet region, 0.3, 0.4",Conspiracy theories,Post-Soviet region,0.3,0.4
+"Power imbalances, Geopolitical interactions, 0.3, 0.6",Power imbalances,Geopolitical interactions,0.3,0.6
+"Cynical Soviet and post-Soviet tropes, Political beliefs, 0.3, 0.7",Cynical Soviet and post-Soviet tropes,Political beliefs,0.3,0.7
+"Affect, Inter-state relations, 0.3, 0.6",Affect,Inter-state relations,0.3,0.6
+"Protracted or frozen conflicts, Public opinion, 0.3, 0.5",Protracted or frozen conflicts,Public opinion,0.3,0.5
+"Official discourse, Contestation, 0.3, 0.6",Official discourse,Contestation,0.3,0.6
+"Structural position, Agency and malevolence, 0.3, 0.6",Structural position,Agency and malevolence,0.3,0.6
+"Nagorno-Karabakh, Territorial dispute, 0.35, 0.43",Nagorno-Karabakh,Territorial dispute,0.35,0.43
+"Separatist region, Separatism, 0.15, 0.14",Separatist region,Separatism,0.15,0.14
+"Clashes, Violence, 0.3, 0.14",Clashes,Violence,0.3,0.14
+"Soldiers, Military, 0.25, 0.27",Soldiers,Military,0.25,0.27
+"Ethnic Armenian forces, Ethnicity, 0.1, 0.14",Ethnic Armenian forces,Ethnicity,0.1,0.14
+"Artillery, Weaponry, 0.15, 0.14",Artillery,Weaponry,0.15,0.14
+"Buffer zone, Geography, 0.05, 0.14",Buffer zone,Geography,0.05,0.14
+"Troika, Negotiation, 0.05, 0.14",Troika,Negotiation,0.05,0.14
+"Envoys, Diplomacy, 0.05, 0.14",Envoys,Diplomacy,0.05,0.14
+"OSCE, International organization, 0.05, 0.14",OSCE,International organization,0.05,0.14
+"Mortars, Weaponry, 0.05, 0.14",Mortars,Weaponry,0.05,0.14
+"Aircraft, Weaponry, 0.1, 0.14",Aircraft,Weaponry,0.1,0.14
+"Tanks, Weaponry, 0.1, 0.14",Tanks,Weaponry,0.1,0.14
+"Armenia and Azerbaijan, Countries, 0.2, 0.14",Armenia and Azerbaijan,Countries,0.2,0.14
+"Nagorno_Karabakh, Conflict resolution, 0.8, 1",Nagorno_Karabakh,Conflict resolution,0.8,1
+"Iranian intervention in the Caucasus, Regional influence, 0.5, 1",Iranian intervention in the Caucasus,Regional influence,0.5,1
+"South Caucasus, Geopolitical location, 0.6, 1",South Caucasus,Geopolitical location,0.6,1
+"Military build-up, Conflict escalation, 0.7, 1",Military build-up,Conflict escalation,0.7,1
+"military training, Military preparedness, 0.4, 1",military training,Military preparedness,0.4,1
+"Western powers, Mediation, 0.4, 1",Western powers,Mediation,0.4,1
+"Collective Security Treaty Organization, Military cooperation, 0.5, 1",Collective Security Treaty Organization,Military cooperation,0.5,1
+"Frozen conflicts, Regional stability, 0.4, 1",Frozen conflicts,Regional stability,0.4,1
+"Russo-Georgian war, International order, 0.5, 1",Russo-Georgian war,International order,0.5,1
+"Turkish world, Regional influence, 0.4, 1",Turkish world,Regional influence,0.4,1
+"Armenian Genocide, Historical conflict, 0.3, 1",Armenian Genocide,Historical conflict,0.3,1
+"Football diplomacy, Diplomatic breakthrough, 0.3, 1",Football diplomacy,Diplomatic breakthrough,0.3,1
+"Military modernization, Defense capability, 0.4, 1",Military modernization,Defense capability,0.4,1
+"Azerbaijan, Conflict, 0.1, 0.4",Azerbaijan,Conflict,0.1,0.4
+"Barda city, War, 0.05, 0.5",Barda city,War,0.05,0.5
+"Civilians, News, 0.2, 0.6",Civilians,News,0.2,0.6
+"Children, News, 0.15, 0.3",Children,News,0.15,0.3
+"Cluster bombs, Conflict, 0.05, 0.4",Cluster bombs,Conflict,0.05,0.4
+"Humanitarian ceasefire, Conflict, 0.05, 0.3",Humanitarian ceasefire,Conflict,0.08,0.3
+"Nagorno-Karabakh, Conflict, 0.1, 0.5",Nagorno-Karabakh,Conflict,0.1,0.5
+"Occupation, Conflict, 0.05, 0.3",Occupation,Conflict,0.08,0.3
+"Smerch missiles, War, 0.05, 0.3",Smerch missiles,War,0.05,0.3
+"State terror, Conflict, 0.05, 0.3",State terror,Conflict,0.05,0.3
+"Truce, Conflict, 0.05, 0.3",Truce,Conflict,0.05,0.3
+"United States, Conflict, 0.05, 0.2",United States,Conflict,0.05,0.2
+"Violation, Conflict, 0.05, 0.3",Violation,Conflict,0.05,0.3
+"War crime, Conflict, 0.05, 0.3",War crime,Conflict,0.08,0.3
