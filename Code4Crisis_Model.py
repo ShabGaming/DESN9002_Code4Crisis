@@ -100,6 +100,7 @@ st.caption("For example, Armenia")
 region = st.text_input("(optional) Enter region/conflict name:")
 st.caption("For example, Nagorno Karabakh")
 
+exception = False
 if st.button("Run Model", type="primary"):
     if text == "":
         st.write("❌ Please enter text ❌")
