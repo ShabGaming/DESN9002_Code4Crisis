@@ -1,0 +1,6 @@
+streamlit
+pandas
+warnings
+pickle
+nltk
+nltk.sentiment.vader
