@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 import nltk
+nltk.downloader.download('vader_lexicon')
 from nltk.sentiment.vader import SentimentIntensityAnalyzer as SIA
 import pickle
 import warnings
@@ -71,8 +72,8 @@ def run_model(text, country1, country2, region, keywords):
         if columns[index] in text:
             row[index] = row[index] + 1
     print("Loading model...")
-    model = pickle.load(open('temp_files\logistic_regression_model.pkl', 'rb'))
-    scaler = pickle.load(open('temp_files\scaler.pkl', 'rb'))
+    model = pickle.load(open('temp_files/logistic_regression_model.pkl', 'rb'))
+    scaler = pickle.load(open('temp_files/scaler.pkl', 'rb'))
     print(row)
     print("Scaling data...")
     row = scaler.transform([row])
