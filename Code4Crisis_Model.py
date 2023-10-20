@@ -113,7 +113,7 @@ if st.button("Run Model", type="primary"):
         exception = True  
     if region == "":
         region = None
-    if exception != True:
+    if exception == False:
         x = run_model(text, country1, country2, region, KeyWordsList)
         if x == 1:
             st.write("Crisis may have started or is about to start.")
